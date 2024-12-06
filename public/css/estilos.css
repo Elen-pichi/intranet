@@ -1,0 +1,28 @@
+
+#construccion_car .card-title,
+#construccion_car .fa-tools {
+	color: black;
+
+}
+
+#construccion_car h2 {
+	font-style: italic;
+	font-size: xx-large;
+	font-weight: bolder;
+	font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#construccion_car .card-img-overlay {
+	display: flex;
+	flex-direction: column;
+	justify-content: top;
+	align-items: center;
+}
+
+
+#construccion_car .fa-tools {
+	font-size: 2rem;
+}
+
+
+
